@@ -1,0 +1,14 @@
+# ninja log v7
+1	11755	1774603456022526906	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	9455d044402cdc88
+0	11844	1774603456021526991	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	1822b8fca06355fa
+11759	23612	1774603467780542325	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	58ceaf7697c9f4ac
+1	27143	1774603456022526906	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	31856b4d2c365df6
+1	27328	1774603456022526906	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	c5e086f691695467
+23612	36449	1774603479633565019	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda.o	eecd9f624b1d47e5
+11844	39254	1774603467865535260	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	708d651b4f6132b1
+36449	49107	1774603492470523433	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	6cf7cb86b62ea92
+27328	50465	1774603483350261663	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	eb2abc94fa48e3ac
+27144	54823	1774603483166276641	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda_kernel.o	6d4d94f0bc47b059
+49107	60344	1774603505128513105	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	98317b41a16e5f6a
+39254	66137	1774603495276298062	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	945c77ff99358bb6
+50466	75653	1774603506488405541	/home/qinminghua/piper_arm_project/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	be6976e1587992ea
